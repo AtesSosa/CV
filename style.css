@@ -205,5 +205,10 @@ a{
 		margin-left: 0;
 		margin-right: 33.33%;
 	}
+	.hoster{
+		text-align: left;
+		margin-left: 3%;
+		width: 30.33%;
+	}
 
 }
